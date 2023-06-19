@@ -1,10 +1,10 @@
 <h1>Descrição do sistema:</h1>
 
-tecnologias utilizadas -> Java, CSS, JavaScript e HTML.
+<h3>Tecnologias utilizadas</h3> Java, CSS, JavaScript e HTML.
 
-Estrutura - > Disciplina, GradeCurricular, curso, departamento, Professor, atividade, ensino, Plano de ensino, avaliação.
+<h3>Estrutura</h3> Disciplina, GradeCurricular, curso, departamento, Professor, atividade, ensino, Plano de ensino, avaliação.
 
-Serviços ->
+<h3>Serviços</h3>
 
 UTILITÁRIOS:
 Os serviços UTILITÁRIOS fornecem funcionalidades genéricas que são utilizadas por outros serviços do sistema. 
